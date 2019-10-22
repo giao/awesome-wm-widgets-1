@@ -1,5 +1,5 @@
 # awesome-wm-widgets
-widgets for awesome
+widgets for awesome from https://github.com/letsluk/awesome-wm-widgets
 
 #### General usage
 1. Download the lua-File of the widget you want to use.
